@@ -1,0 +1,7 @@
+body{background: linear-gradient(90deg,#12c2e9,#c471ed,#f64f59); }
+div{display: inline-block; width: 350px; height: 350px; background: greenyellow; margin:10px; padding:12px; border:2px solid;float:left;text-align: center; font-style:bold;}
+h1{text-align: center;}
+h2{color:teal; font-size:20px;}
+h3{color:blueviolet;}
+p1{color:blueviolet;}
+p{color:teal;}
